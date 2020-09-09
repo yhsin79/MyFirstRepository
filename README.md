@@ -7,7 +7,7 @@
  2. 두번째
  3. __세번째__
  
- <img width=""height=""src=https://github.com/yhsin79/MyFirstRepository/blob/master/Png/%EC%98%88%EC%8B%9C%EC%9A%A9%20%EA%B3%A0%EC%96%91%EC%9D%B4".png">
+ <img width=""height=""src="./Png/캡스톤 디자인 과제1.png">
  
  
 Hello My name is YuHyeshin
