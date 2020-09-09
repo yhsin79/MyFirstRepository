@@ -7,7 +7,7 @@
  2. 두번째
  3. __세번째__
  
- <img width=""height=""src./png/C:\Users\yhsin\OneDrive\사진".png">
+ <img width=""height=""src"./png/예시용 고양이.png">
  
  
 Hello My name is YuHyeshin
