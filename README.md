@@ -7,7 +7,7 @@
  2. 두번째
  3. __세번째__
  
- <img width=""height=""src="./Png/캡스톤 디자인 과제1.png">
+<img width="" height="" src="./Png/예시용 고양이.png">
  
  
 Hello My name is YuHyeshin
