@@ -16,5 +16,5 @@ Hello My name is YuHyeshin
 <img width="" height="" src="./Png/예시용 고양이.png">
  
   ## 3주차과제
-<img width="" height="" src="./Png/예시용 고양이.png">
-
+<img width="" height="" src="./Png/캡스톤디자인 3주차과제2.png">
+<img width="" height="" src="./Png/캡스톤디자인 3주차과제.png">
