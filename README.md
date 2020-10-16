@@ -39,6 +39,93 @@ Hello My name is YuHyeshin
    
    ## 7주차과제
    
+   깃허브 제출 할사람/안할사람 각각 제출
    
+   <img width="" height="" src="./Png/8week.png">
    
+   # xml 소스코드 백업용
+   <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:onClick="onButton"
+        android:text="이미지 바꾸기" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            app:srcCompat ="@drawable/pic1"
+            />
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            app:srcCompat ="@drawable/pic2"
+            />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="149dp"
+            android:layout_height="38dp"
+            android:text="19273019유혜신" />
+    </FrameLayout>
+</LinearLayout>
+
+# java 소스코드 백업용
+package com.example.imageview_testapplication;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
+
+
+public class MainActivity extends AppCompatActivity {
+    ImageView i;
+    ImageView i1;
+
+    int imageIndex = 0;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        i = findViewById(R.id.image);
+        i1 = findViewById(R.id.image2);
+    }
+    public void onButton(View v){
+        changeImage();
+    }
+    private void changeImage(){
+        if (imageIndex == 0){
+            i.setVisibility(View.VISIBLE);
+            i1.setVisibility(View.INVISIBLE);
+            imageIndex = 1;
+        }
+        else if (imageIndex == 1){
+            i.setVisibility(View.INVISIBLE);
+            i1.setVisibility(View.VISIBLE);
+            imageIndex = 0;
+        }
+    }
+}
    
