@@ -39,6 +39,6 @@ Hello My name is YuHyeshin
    
    ## 7주차과제
    
-   <img width""height="" src"./Png/8week.png">
+   
    
    
