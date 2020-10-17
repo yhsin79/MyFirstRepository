@@ -40,6 +40,7 @@ Hello My name is YuHyeshin
    ## 7주차과제
    
    깃허브 제출 할사람/안할사람 각각 제출
+   안드로이드 스튜디오 사용자계정 영어로 
    
    <img width="" height="" src="./Png/8week.png">
    
