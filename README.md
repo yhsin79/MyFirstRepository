@@ -44,7 +44,7 @@ Hello My name is YuHyeshin
    
    <img width="" height="" src="./Png/8week.png">
    
-   # xml 소스코드 백업용
+   # 7주차 xml 소스코드 백업용
    <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -90,7 +90,7 @@ Hello My name is YuHyeshin
     </FrameLayout>
 </LinearLayout>
 
-# java 소스코드 백업용
+# 7주차 java 소스코드 백업용
 package com.example.imageview_testapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -129,4 +129,12 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+ ## 9주차과제
+    넓이
+   <img width="" height="" src="./Png/9weekWidth.png">
+    높이
+   <img width="" height="" src="./Png/9weekWidth.png">
+
+   
    
