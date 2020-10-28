@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
 
  ## 9주차과제
     이미지 바꾸기 전
-    <img width="" height="" src="./Png/9week.png">
+    <img width="" height="" src="./Png/9weekImage.png">
     넓이
    <img width="" height="" src="./Png/9weekWidth.png">
     높이
