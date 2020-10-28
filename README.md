@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
     넓이
    <img width="" height="" src="./Png/9weekWidth.png">
     높이
-   <img width="" height="" src="./Png/9weekHeight.png">
+
 
    
    
