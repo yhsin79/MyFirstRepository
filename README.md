@@ -138,6 +138,12 @@ public class MainActivity extends AppCompatActivity {
    <img width="" height="" src="./Png/9weekWidth.png">
     높이
    <img width="" height="" src="./Png/9weekHeight.png">
+   
+ ## 10주차과제
+ 처음 나오는 부분
+ <img width="" height="" src="./Png/10week_1.png">
+ 글자수 바이트 나오는 부분
+ <img width="" height="" src="./Png/10week_2.png">
 
    
    
