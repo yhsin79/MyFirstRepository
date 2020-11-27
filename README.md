@@ -161,6 +161,17 @@ public class MainActivity extends AppCompatActivity {
  
  <img width="" height="" src="./Png/12week.png">
  
+ ## 13주차과제
+주제: 재활 및 고령친화기기 데이터
 
-   
+앞으로 고령화 사회에 4차산업/ 의료용 기기 
+수요가 늘어날 것인가? 를 데이터로 보여주기
+
+데이터 보여주기 /돌아가기
+7주차/11주차
+
+
+네이버로 접속하기 버튼 1개 / 3주차
+데이터를 보여주는 버튼 1개 
+돌아가는 버튼 한개
    
