@@ -165,6 +165,7 @@ public class MainActivity extends AppCompatActivity {
  서울시 공영주차장 안내 정보
  데이터를 서울 열린 데이터 광장에서 받아옴 (로그인 후 인증키를 받음)
  공영주차장 안내 정보 데이터 만들기
+ 깃허브 finalTest_Application에 소스코드 
  
  <img width="" height="" src="./Png/parking_finalTest.png">
  
