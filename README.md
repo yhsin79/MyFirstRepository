@@ -166,6 +166,6 @@ public class MainActivity extends AppCompatActivity {
  데이터를 서울 열린 데이터 광장에서 받아옴 (로그인 후 인증키를 받음)
  공영주차장 안내 정보 데이터 만들기
  
- <img width="" height="" src="./Png/finalTest.png">
+ <img width="" height="" src="./Png/Parking_finalTest.png">
  
  
