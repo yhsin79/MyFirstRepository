@@ -163,3 +163,7 @@ public class MainActivity extends AppCompatActivity {
  
  ## 13주차 ~14주차 +기말
  서울시 공영주차장 안내 정보
+ 데이터를 서울열린 데이터 광장에서 받아옴
+ 공영주차장 안내 정보 데이터 만들기
+ 
+ 
